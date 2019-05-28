@@ -1,7 +1,7 @@
 Awesome SAT and SMT solving
 ===========================
 
-* [Interactive DPLL and CDCL](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/).
+* [SAT](#sat).
 
 SAT
 ---
@@ -14,6 +14,8 @@ SAT
 * PPSZ (1998).
 * Chaff (2001).
 * Incremental SAT (2003).
+* CDCL (**c**onflict **d**riven **c**lause **l**earning):
+  * [Interactive DPLL and CDCL explanation](https://cse442-17f.github.io/Conflict-Driven-Clause-Learning/).
 
 ### Solvers ###
 
